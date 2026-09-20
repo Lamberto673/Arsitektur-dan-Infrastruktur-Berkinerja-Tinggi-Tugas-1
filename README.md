@@ -1,4 +1,4 @@
-<strong>TUGAS Arsitektur dan Infrastruktur Berkinerja Tinggi</strong>
+<strong>TUGAS Arsitektur dan Infrastruktur Berkinerja Tinggi</strong><br/>
 Nama: Donny Zaki Huda
 NIM: 25/555381/PA/23279
 
